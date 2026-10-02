@@ -1,6 +1,10 @@
 # BLOCKINFRA
 
+<p align="center"><img src="assets/blockinfra-tela.jpg" width="100%" alt="Tela do BLOCKINFRA com um loteamento, suas redes e a lista de pontos" /></p>
+
 Software desktop para Windows que reúne, em um só programa, o que hoje exige três ou quatro: georreferenciamento de imóveis rurais no padrão SIGEF, modelo digital de terreno e o projeto completo de infraestrutura urbana e viária.
+
+**[Baixar e testar por 14 dias](https://blockinfra.com.br)** · [Manual](https://blockinfra.com.br/manual/)
 
 **Site:** [blockinfra.com.br](https://blockinfra.com.br)  
 **Situação:** Em produção, com teste gratuito de 14 dias
@@ -15,7 +19,14 @@ Software desktop para Windows que reúne, em um só programa, o que hoje exige t
 - Esgoto: rede coletora, elevatórias, tratamento e concepção para a cidade inteira
 - Água, energia e iluminação pública, pavimentação pelo método do DNIT
 - Estradas vicinais, pontes e passagens molhadas
+- Programa de sondagens pela NBR 8036, com boletim dos furos e memorial para a empresa executora
 - Orçamento, viabilidade, pranchas de execução, memoriais e vista 3D
+- Exportação para KMZ, SHP, GeoJSON, XLSX e LandXML
+
+<p align="center">
+  <img src="assets/blockinfra-3d.jpg" width="49%" alt="Vista 3D do loteamento projetado sobre o terreno" />
+  <img src="assets/blockinfra-prancha.jpg" width="49%" alt="Prancha de localização e situação gerada pelo programa" />
+</p>
 
 ## Tecnologia
 
